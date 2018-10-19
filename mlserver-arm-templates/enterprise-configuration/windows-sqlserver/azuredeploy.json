@@ -293,7 +293,6 @@
                     "storageProfile": {
                         "osDisk": {
                             "managedDisk": { "storageAccountType": "Premium_LRS" },
-                            "name": "osdisk",
                             "createOption": "FromImage"
                         },
                         "imageReference": {
