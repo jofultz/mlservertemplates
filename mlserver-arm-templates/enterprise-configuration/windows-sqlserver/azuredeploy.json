@@ -292,7 +292,7 @@
                 "virtualMachineProfile": {
                     "storageProfile": {
                         "osDisk": {
-                            "managedDisk": { "storageAccountType": "Premium_LRS" },
+                            "managedDisk": { "storageAccountType": "Standard_LRS" },
                             "createOption": "FromImage"
                         },
                         "imageReference": {
